@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muchlisaryn
-- 👀 I’m interested in Graphic Designer | UI/UX | front-end Web Dev
+- 👀 I’m interested in Graphic Designer | UI/UX | front-end Dev
 - 🌱 I’m currently learning React & React Native for Front-end Dev
 
 <!---

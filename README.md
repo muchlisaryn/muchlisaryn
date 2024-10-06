@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muchlisaryn
-- 👀 I’m interested in Graphic Designer | UI/UX | Fullstack dev
+- 👀 I’m interested in Fullstack Dev | React Dev | Laravel Dev
 - 🌱 I’m currently learning LaraVue
 
 <!---
